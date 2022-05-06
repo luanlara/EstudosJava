@@ -1,4 +1,4 @@
-package ListaDupla;
+package Java.Estudos.ListaDuplaED;
 
 public class No {
     

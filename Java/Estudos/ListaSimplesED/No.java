@@ -1,4 +1,4 @@
-package ListaSimples;
+package Java.Estudos.ListaSimplesED;
 
 public class No {
     

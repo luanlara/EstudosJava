@@ -1,4 +1,4 @@
-package Exercicio2Simples;
+package Java.Estudos.Exercicio2SimplesED;
 
 public class Main {
 
