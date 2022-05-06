@@ -1,4 +1,4 @@
-package Java.Estudos.ArrayList;
+package Java.Estudos.ArrayListPOO;
 
 import java.util.ArrayList;
 import java.util.List;

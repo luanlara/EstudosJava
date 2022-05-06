@@ -1,4 +1,4 @@
-package Java.Estudos.Heranca;
+package Java.Estudos.HerancaPOO;
 
 public class Aluno extends Pessoa {
     int serie;

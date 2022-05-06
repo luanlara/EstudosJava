@@ -1,4 +1,4 @@
-package Java.Estudos.ArrayList;
+package Java.Estudos.ArrayListPOO;
 
 public class Aluno {
     

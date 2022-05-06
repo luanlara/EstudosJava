@@ -1,4 +1,4 @@
-package Java.Estudos.Enumeracao;
+package Java.Estudos.EnumeracaoPOO;
 
 public class Usuario {
     
