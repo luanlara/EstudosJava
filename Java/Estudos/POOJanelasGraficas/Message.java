@@ -13,7 +13,7 @@ public class Message {
 
         //o segundo texto "" é o título da janela
         JOptionPane.showMessageDialog(null, "Boa aula", "Caixa Teste", JOptionPane.DEFAULT_OPTION);
-        JOptionPane.showMessageDialog(null, "Cuidado! Risco de XXX", "Perigo", JOptionPane.WARNING_MESSAGE);
+        JOptionPane.showMessageDialog(null, "Cuidado! Risco de XXX", "Erro", JOptionPane.ERROR_MESSAGE);
 
 
     }
